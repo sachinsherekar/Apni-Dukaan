@@ -113,7 +113,7 @@ document.getElementById("rzp-button1").onclick = function (e) {
     key: "rzp_test_PV1oQ0oMtgXOsq", 
     amount: calculateTotalPrice() * 100, 
     currency: "INR",
-    name: "Swift Mart",
+    name: "Apni Dukaan",
     description: "This is your order",
     theme: {
       color: "#000",
